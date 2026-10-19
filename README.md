@@ -1,4 +1,4 @@
-Hi, I'm Clifford Luchavez 👋
+Hi, I'm Clifford Luchavez 
 
 IT Student | Aspiring Software Developer
 
@@ -6,17 +6,17 @@ I'm an Information Technology student passionate about building practical softwa
 
 👨‍💻 About Me
 
-🎓 Currently pursuing a Bachelor of Science in Information Technology.
+- Currently pursuing a Bachelor of Science in Information Technology.
 
-💻 Interested in web development, mobile applications, and artificial intelligence.
+- Interested in web development, mobile applications, and artificial intelligence.
 
-🚀 Building projects that solve real-world problems.
+- Building projects that solve real-world problems.
 
-📚 Always learning and exploring new technologies.
+- Always learning and exploring new technologies.
 
-🎯 Goal: Become a skilled software developer and contribute to meaningful projects.
+- Goal: Become a skilled software developer and contribute to meaningful projects.
 
-🛠️ Technologies & Tools
+-  Technologies & Tools
 
 Languages: HTML, CSS, JavaScript, C#
 Frameworks & Platforms: ASP.NET Web Forms, React Native, Expo
